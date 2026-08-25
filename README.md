@@ -135,4 +135,4 @@ ax.set_title('Box Plot')
 <img width="1159" height="615" alt="Screenshot 2026-08-25 151812" src="https://github.com/user-attachments/assets/5ae38afa-e350-4cc0-891f-5319ad61f674" />
 
 # Result:
- Include your result here
+ Thus, all the data visualization techniques of matplotlib has been implemented.
